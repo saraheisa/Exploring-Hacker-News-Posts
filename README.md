@@ -11,3 +11,9 @@ Likewise, users submit `Show HN` posts to show the Hacker News community a proje
 We'll compare these two types of posts to determine the following:
 - Do Ask HN or Show HN receive more comments on average?
 - Do posts created at a certain time receive more comments on average?
+
+### In this project I have accomplished
+- set a goal for the project.
+- collected and sorted the data.
+- reformatted and cleaned the data to prepare it for analysis.
+- analyzed the data.
